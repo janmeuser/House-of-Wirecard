@@ -1,5 +1,3 @@
-# Create links to scrape content after the start page
-
 #Spiegel Link (2-24): https://www.spiegel.de/suche/?suchbegriff=Wirecard&seite=2&inhalt=ueberschriften-und-vorspann&erschienenBei=der-spiegel%2Cspiegel-plus
 import json
 
