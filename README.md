@@ -23,7 +23,7 @@ From this, the reporting before, during and after the scandal can be mapped in c
 ## Used Technologies
 - Python
 - Natural Language Toolkit (NLTK)
-- WebSCraping: Selenium, BeautifulSoup
+- WebScraping: Selenium, BeautifulSoup
 
 
 ## Finishing information
