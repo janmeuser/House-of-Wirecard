@@ -12,7 +12,7 @@ As part of my written work (Besondere Lernleistung) during my Abitur, I dealt in
 With this sentiment analysis, I would like to examine the reporting of Spiegel, Handelsblatt and ManagerMagazin and see whether my thesis is confirmed.
 
 ## Process
-First, the data from the sources mentionend above were collected in a valid format (.json File). Only the title, the publication date and the source were considered. 
+First, the data from the sources mentionend above were collected in a valid format (.json File). Only the title, the publication date and the source were considered. Finally, all the data from different sources had to be brought into a standardized format.
 During the sentiment analysis, the titles were then classified as:
 - positive 🙂
 - neutral 😐
